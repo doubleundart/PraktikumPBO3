@@ -32,4 +32,5 @@ echo $mhs2->getInfo() . "<br>";
  
 $mhs1->setJurusan("Manajemen Informatika");
 echo $mhs1->getInfo() . "<br>";
+
 ?>

@@ -39,4 +39,5 @@ if ($produk->kurangStok(3)) {
 else {
     echo "Stok tidak mencukupi!<br>";
 }
+
 ?>
